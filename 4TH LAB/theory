@@ -1,0 +1,2 @@
+// clock_t:This function returns the number of clock ticks elapsed 
+//since the start of the program. On failure, the function returns a value of -1.
